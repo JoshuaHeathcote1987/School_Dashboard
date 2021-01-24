@@ -1,0 +1,14 @@
+.my-navbar {
+    background-color: #457b9d;
+    border-bottom: 5px solid #e63946;
+    color: white;
+    height: 100px;
+}
+
+.welcome-picture {
+    background-color: #a8dadc;
+}
+
+.welcome-sentence {
+    background-color: #dce1de;
+}

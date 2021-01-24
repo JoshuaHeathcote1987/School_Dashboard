@@ -1,0 +1,12 @@
+show user page
+
+1. make a data base linking the user to a picture. A user can only have one picture so there is no need for a id.
+
+user id         url
+
+
+2. The generate report button will print out the will bring up a print of current database.
+
+3. The bottom of the page will have data shown to the user as well as anything else that can be used.
+
+

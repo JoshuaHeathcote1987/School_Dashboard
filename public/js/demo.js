@@ -1,0 +1,3 @@
+(function(){
+  pagePrgoress('.page-progress');
+})()
